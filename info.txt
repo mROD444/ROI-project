@@ -1,0 +1,27 @@
+#four square method:
+
+#SQUARE ONE
+#income - $ 2000, laundry - 0, storage 0, misc 0    total monthly incomes $2000
+
+#SQUARE TWO
+#expenses tax 150, insurance 100, utilities 0, hoa 0, lawn/snow 0, vacancy 100, repairs 100, property mortage 200, mortgage 100, total monthly expenses 1610. 
+
+
+#SQUARE THREE
+#cash flow // income 2000 - expenses 1610  **total monthly cash flow = 390**
+
+#SQUARE FOUR
+#cash on cash ROI
+#down paymemnt 40,000, closing costs 3,000
+#rehab budget 7,000
+#misc other 0
+#total investment 50,000
+
+# 390 * 12 = 4,680
+
+#Annual cash flow    4,680
+#total investment    50,000
+
+#cash on cash ROI = 9.36%
+
+
